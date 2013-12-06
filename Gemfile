@@ -2,7 +2,7 @@ source "http://rubygems.org"
 # Add dependencies required to use your gem here.
 # Example:
 #   gem "activesupport", ">= 2.3.5"
-gem "soap4r", ">=1.5.8"
+gem 'mumboe-soap4r', :git => 'git://github.com/mumboe/soap4r.git'
 
 # Add dependencies to develop your gem here.
 # Include everything needed to run rake, tests, features, etc.
